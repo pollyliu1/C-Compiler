@@ -1,4 +1,4 @@
-# C-Compiler
+# C Compiler
 
 - This compiler works on a simplified version of C, called WLP4.
 - [WLP4 Programming Language Specification](https://www.student.cs.uwaterloo.ca/~cs241/wlp4/WLP4.html)
